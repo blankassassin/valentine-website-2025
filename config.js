@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "I'm the luckiest man in the world shawty! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss! Maybe some Sushi if you're good.",
+        title: "I'm the luckiest man in the world shawty! I Love You🎉💝💖💝💓",
+        message: "Now come get your gift, a big ole hug and a huge kiss! Maybe some sushi if you're good.",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
@@ -79,7 +79,7 @@ const CONFIG = {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
         musicUrl: "https://res.cloudinary.com/darzuw99m/video/upload/f_auto:video,q_auto/aoyhnf3ee5gm9c0suo1h", // Music streaming URL
-        startText: "🎵 Play Music",        // Button text to start music
+        startText: "♥️ Press to Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
     }
