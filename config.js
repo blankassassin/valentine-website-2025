@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! ❤️ ♥️ 💕 💓 💞 
-    pageTitle: "Will You Be My Valentine? 💝 (Told you id figure it out)",
+    pageTitle: "Will You Be My Valentine? 💝 Hehe told you I'd figure it out",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
